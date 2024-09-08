@@ -12,13 +12,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝙼𝚘𝚌𝚑𝚊 [ - ]",
-  "prefix": "-",
+  "nickNameBot": "彡𝚁𝚄𝙳𝙴𝚄𝚂 𝙳𝙰𝚁𝙺𝙽𝙴𝚂𝚂彡",
+  "prefix": "~",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [100094708460091,61556844002491],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
